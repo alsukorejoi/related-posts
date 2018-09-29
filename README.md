@@ -1,2 +1,0 @@
-# related-posts
-related-posts
